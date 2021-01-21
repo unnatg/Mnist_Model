@@ -1,2 +1,2 @@
 # Mnist Model
-#Digit Prediction
+Digit Prediction
